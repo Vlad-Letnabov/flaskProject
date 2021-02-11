@@ -5,7 +5,7 @@ app = Flask(__name__)
 
 def sum(a,b):
 
-    q = 'qwe'
+    q = 'qwe0'
     result = a+b
 
     result = f"{q} - {result}"
